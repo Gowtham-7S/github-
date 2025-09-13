@@ -1,0 +1,12 @@
+*{
+    color: red;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+
+};
